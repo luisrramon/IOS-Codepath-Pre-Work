@@ -17,9 +17,11 @@ The following **required** functionality is completed:
 Instagram
 - Add music to My Note
 - Sharing posts for close friends to see
+
 iMessage 
 - Edit sent texts
 - Send texts with effects
+
 Facetime
 - Change my face filter to any animals, eg. Octopus
 - Facetime more than 1 person
