@@ -13,6 +13,12 @@ The following **required** functionality is completed:
 - [X] Users are see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
 
+## Video Walkthrough
+
+<a href="https://www.loom.com/share/0934818af06e48729f2ab7f0859cec1d">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0934818af06e48729f2ab7f0859cec1d-with-play.gif">
+</a>
+
 ## App Brainstorming (Step 4)
 Instagram
 - Add music to My Note
