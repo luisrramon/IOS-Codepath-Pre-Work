@@ -28,9 +28,9 @@ Facetime
 - Share my screen
 
 App Idea: I would like to build a app called MyPenguin. This app will be a game that places the 
-responsibility on the user to tsking care a penguin. Some features I would like to implement is
-1) a timer that counts the number of hours a penguin should sleep, 2) a distance meter that calculates
-the distance a penguin walks around and 3) a list that contains all the foods edible for penguins that
+responsibility on the user to tsking care a penguin. Some features I would like to implement is a timer 
+that counts the number of hours a penguin should sleep, a distance meter that calculates
+the distance a penguin walks around and a list that contains all the foods edible for penguins that
 user can choose for penguin to eat.
 
 ## Notes
